@@ -1,0 +1,363 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.aa{
+    width: 100%;
+    height: 80px;
+    border-bottom: 1px solid gainsboro
+}
+
+ .aa1{
+width: 50px;
+height: 60px;
+padding-top: 10px;
+padding-left: 30px;
+float: left;
+ }
+.aa11{
+    height: 6px;
+    width: 40px;
+    background-color: black;
+    margin-top: 16px;
+}
+.aa12{
+    height: 6px;
+    width: 40px;
+    background-color: black;
+    margin-top: 5px;
+}
+.aa13{
+    height: 6px;
+    width: 40px;
+    background-color: black;
+    margin-top: 5px;
+}
+.aa2{
+    height: 80px;
+    width: 180px;
+    line-height: 100px;
+    float: left;
+    padding-left: 10px;
+}
+.aa31{
+    padding-top: 25px;
+    float: left;
+    padding-left: 14px;
+}.aa32{
+    padding-top: 25px;
+    float: left;
+    padding-left: 6px;
+}
+.aa4{
+    padding-left: 6px;
+    padding-top: 4px;
+}
+.aa5{
+    padding-left: 6px;
+    padding-top: 4px;
+}
+.aa6{
+    padding-left: 6px;
+    padding-top: 4px;
+}
+.aa7{
+    font-size: 30px;
+    text-align: center;
+}
+.aa8{
+    width: 100%;
+    display: flex;
+    position: row; 
+    position: relative;
+}
+.aa81{
+    margin-left: 10px;
+}
+.aa82{
+    margin-left: 10px;
+}
+.aa83{
+    margin-left: 10px;
+}
+.aa81:hover{
+color: blue;
+border-bottom:2px solid blue; 
+}
+.aa82:hover{
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+.aa83:hover{
+    color: blue;
+    border-bottom:2px solid blue; 
+}  
+
+.aa9{
+    height: 10px;
+}
+.bb{
+ display: flex;
+ position:row;
+}
+.bb1{
+    width: 177px;
+    height:250px ;
+text-align: center;
+border-right: 10px solid #F5F5F5;
+padding-left: 10px; 
+}
+.bb2{
+    width: 177px;
+    height:250px ;
+text-align: center;
+}
+.cc0{
+    display: flex;
+ position:row;
+}
+.cc1{
+    width: 177px;
+    height:250px ;
+text-align: center;
+border-right: 10px solid #F5F5F5;
+padding-left: 10px; 
+}
+.cc2{
+    width: 177px;
+    height:250px ;
+text-align: center;
+}
+.dd{
+    text-align: center;
+    font-size: 30px;
+}
+.ee{
+    padding: 12px;
+}
+.ff{
+    text-align: center;
+    font-size: 30px;
+}
+.gg{
+    display: flex;
+    position: row;
+}
+.gg1{
+    width: 177px;
+    height:250px ;
+text-align: center;
+padding-left: 10px;
+}
+.gg11{
+    font-size: 12px;
+    color: gainsboro;
+}
+.gg2{
+    width: 177px;
+    height:250px ;
+text-align: center;
+}
+.gg21{
+    font-size: 12px;
+    color: gainsboro;
+}
+.h{
+    height: 10px;
+border-top: 10px solid #F5F5F5;
+}
+.z{
+    font-size: 30px;
+text-align:center;
+}
+.y{
+    font-size: 10px;
+    display: flex;
+    position:row;
+}
+.y1{
+    margin-left: 30px;
+    width: 40px;
+}
+.y1:hover{
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+.y2{
+    margin-left: 20px;
+    width: 50px;
+}
+.y2:hover{
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+.y3{
+margin-left: 20px;
+    width: 40px;
+}
+.y3:hover{
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+.y4{
+    margin-left: 20px;
+    width: 50px;
+}
+.y4:hover{
+    color: blue;
+    border-bottom: 3px solid blue;
+}
+
+.i{
+    height: 10px;
+    border-top: 10px solid #F5F5F5;
+
+}
+.i0{
+    display: flex;
+    position:row;
+}
+.i1{
+    width: 177px;
+    height:250px ;
+text-align: center;
+border-right: 10px solid #F5F5F5;
+padding-left: 20px; 
+font-size: 14px;
+}
+.i2{
+    font-size: 12px;
+    color: gainsboro;
+}
+.i3{
+    width: 177px;
+    height:250px ;
+text-align: center;
+padding-left: 10px; 
+font-size: 14px;
+}
+.i4{
+    font-size: 12px;
+    color: gainsboro;
+}
+.i5{
+    color: gainsboro;
+}
+.i6{
+    display: flex;
+    position:row;
+}
+.i7{
+    width: 177px;
+    height:250px ;
+text-align: center;
+border-right: 10px solid #F5F5F5;
+font-size: 14px;
+padding-left: 20px;
+}
+.i8{
+    font-size: 12px;
+    color: gainsboro;
+}
+.i9{
+    width: 177px;
+    height:250px ;
+text-align: center;
+font-size: 14px;
+}
+.i10{
+    font-size: 12px;
+    color: gainsboro;
+}
+.jj{
+    height: 10px;
+    border-top: 10px solid #F5F5F5;
+}
+.kk{
+    font-size: 12px;
+    display:flex;
+    position: row;
+    border-bottom: 1px solid gainsboro; 
+}
+.ll{
+    font-size: 12px;
+    display:flex;
+    position: row;
+    border-bottom: 1px solid gainsboro; 
+}
+.mm{
+    font-size: 12px;
+    display:flex;
+    position: row;
+    border-bottom: 1px solid gainsboro;  
+}
+.nn{
+    height: 60px;
+    background-color: #F7F7F7;
+display: flex;
+justify-content:space-between;
+border-bottom: 1px solid gray;
+}
+.nn1{
+   font-size: 15px;
+margin-top: 30px;
+margin-left: 20px;
+}
+.nn2{
+    margin-top: 20px;
+   font-size: 30px;
+   color: blue;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.oo{
+    height: 60px;
+    background-color: #F7F7F7;
+display: flex;
+justify-content:space-between;
+border-bottom: 1px solid gray;
+}
+.oo1{
+   font-size: 15px;
+margin-top: 30px;
+margin-left: 20px;
+}
+.oo2{
+    margin-top: 20px;
+   font-size: 30px;
+   color: blue;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.pp{
+    height: 60px;
+    background-color: #F7F7F7;
+display: flex;
+justify-content:space-between;
+border-bottom: 1px solid gray;
+}
+.pp1{
+   font-size: 15px;
+margin-top: 30px;
+margin-left: 20px;
+}
+.pp2{
+    margin-top: 20px;
+   font-size: 30px;
+   color: blue;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.vv{
+background-color:#F5F5F5;
+}
+.qq{
+    padding-top: 70px;
+    padding-left: 20px;
+}
+.tt{
+    padding-left:10px; 
+}
+.uu{
+    text-align: center;
+}
